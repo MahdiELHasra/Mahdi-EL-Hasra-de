@@ -1,7 +1,6 @@
 import { useState } from "react";
 import "../index.css";
 import { IconMenu2, IconX } from "@tabler/icons-react";
-import Logo from "/logo.svg";
 
 function Navbar() {
   const [hamburger, setHamburger] = useState(false);
@@ -37,7 +36,7 @@ function Navbar() {
     <>
       <nav>
         <h3 onClick={pageUp} className="logo">
-          <img src={Logo} alt="Mahdi EL Hasra logo" />
+          <img src="/logo.svg" alt="Mahdi EL Hasra logo" />
         </h3>
         <ul>
           {navlinks.map((item) => (
