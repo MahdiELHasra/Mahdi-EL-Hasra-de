@@ -18,16 +18,24 @@ function AboutMe() {
             <div className="text-side">
               <h3>Über mich</h3>
               <h4 className="font-bold">
-                angehender entwickler <br /> ansässig in Rabat, Marokko 📍
+                angehender entwickler <br /> ansässig in Sale, Marokko 📍
               </h4>
               <p>
-                Hallo, mein Name ist Mahdi, und ich bin ein angehender
-                entwickler. Meine Leidenschaft besteht darin, eine saubere UI/UX
-                für meine Benutzer zu erstellen und zu entwickeln.
+                <b>
+                  Schon in jungen Jahren war ich fasziniert von Technologie und
+                  wie sie uns im Alltag unterstützen kann.
+                </b>{" "}
+                Diese Faszination führte mich dazu, Informatik zu studieren und
+                meine Fähigkeiten als Entwickler zu perfektionieren.
                 <br />
                 <br />
-                Mein Hauptstapel besteht derzeit aus React/Next.js in
-                Kombination mit Tailwind CSS und TypeScript.
+                <b>
+                  Ich bin hoch motiviert, Neues zu lernen und mich ständig
+                  weiterzuentwickeln.
+                </b>{" "}
+                In meiner Freizeit beschäftige ich mich mit den neuesten Trends
+                in der Softwareentwicklung und experimentiere mit neuen
+                Technologien.
               </p>
             </div>
           </div>

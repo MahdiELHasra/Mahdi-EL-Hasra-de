@@ -37,9 +37,10 @@ function Hero() {
                 <h1 className="font-bold">Angehender Entwickler</h1>
                 <img src={Waving} alt="waving_hand" />
                 <p>
-                  Hi, mein Name ist Mahdi EL Hasra. Ich bin ein
-                  leidenschaftlicher angehender Entwickler mit Sitz in Rabat,
-                  Marokko. 📍
+                  Hallo! Mein Name ist Mahdi EL Hasra.
+                  <br />
+                  Ich bin ein leidenschaftlicher angehender Entwickler mit Sitz
+                  in Sale, Marokko📍.
                 </p>
                 <span>
                   <a
