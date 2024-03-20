@@ -21,7 +21,7 @@ const skillsIcons = [
     id: 5,
   },
   {
-    img: "https://skillicons.dev/icons?i=python,",
+    img: "https://skillicons.dev/icons?i=python,php",
     id: 4,
   },
 ];
