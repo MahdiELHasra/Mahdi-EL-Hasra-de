@@ -1,5 +1,12 @@
+import { Analytics } from "@vercel/analytics/react";
+
 import Home from "./pages/Home";
 const App = () => {
-  return <Home />;
+  return (
+    <>
+      <Analytics />
+      <Home />
+    </>
+  );
 };
 export default App;
