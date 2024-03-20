@@ -1,6 +1,6 @@
 import JotionPreview from "../../public/preview/Jotion.png";
 import SpacePreview from "../../public/preview/space-tourismus.png";
-
+import CarRentalPreview from "../../public/preview/car-rental.png";
 import ProBox from "./ProBox";
 
 function Projects() {
@@ -24,10 +24,17 @@ function Projects() {
                 demo="https://jotion-x.vercel.app/"
               />
               <ProBox
+                title="Car Rental"
+                img={CarRentalPreview}
+                description="Eine Autovermietungsplattform, entwickelt mit React.js und gestaltet mit SCSS und CSS, ist eine wesentliche Online-Destination für Nutzer, die Fahrzeuge für private oder geschäftliche Zwecke mieten möchten. Diese benutzerfreundliche Website bietet eine nahtlose Oberfläche, die ein müheloses Suchen, Vergleichen und Reservieren von Autos aus einer umfangreichen Flotte ermöglicht. Die Nutzer können eine vielfältige Auswahl an Fahrzeugen erkunden, die sich in Marke, Modell, Größe und Preis unterscheiden, um sicherzustellen, dass für jeden Bedarf und jedes Budget etwas Passendes dabei ist. "
+                code="https://github.com/MahdiELHasra/car-rental"
+                demo="https://car-rental-x.vercel.app/"
+              />
+              <ProBox
                 title="Space Tourism"
                 img={SpacePreview}
                 description="
-                Dieses Projekt, eine Programmieraufgabe von Frontend Mentor, beinhaltete den Aufbau einer responsiven und interaktiven Website für Weltraumtourismus. Die mit HTML, CSS und JavaScript erstellte Seite verfügt über ein dynamisches Layout, das für verschiedene Bildschirmgrößen optimiert ist, interaktive Elemente mit Hover-Zuständen und ein Tab-System für eine effiziente Informationsanzeige. "
+                Dieses spannende Projekt, das eine Programmieraufgabe von Frontend Mentor darstellt, forderte die Entwicklung einer hochmodernen und ansprechenden Website für den Weltraumtourismus. Die Website wurde mithilfe von HTML, CSS und JavaScript erstellt und bietet ein dynamisches Layout, das sich nahtlos an verschiedene Bildschirmgrößen anpasst. Durch die Implementierung von interaktiven Elementen mit Hover-Zuständen und einem effizienten Tab-System wird die Information auf der Seite übersichtlich präsentiert und die Benutzererfahrung optimiert."
                 code="https://github.com/MahdiELHasra/Space-Tourism"
                 demo="https://space-tourism-z.vercel.app/"
               />
