@@ -18,7 +18,7 @@ function AboutMe() {
             <div className="text-side">
               <h3>Über mich</h3>
               <h4 className="font-bold">
-                angehender entwickler <br /> ansässig in Sale, Marokko 📍
+                Angehender Entwickler <br /> ansässig in Sale, Marokko 📍
               </h4>
               <p>
                 <b>

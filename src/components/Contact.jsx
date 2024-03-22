@@ -19,7 +19,7 @@ function Contact() {
                 </span>
                 <div className="contact__info">
                   <h3 className="font-bold">Ort</h3>
-                  <p>Rabat, Marokko</p>
+                  <p>Sale, Marokko</p>
                 </div>
               </div>
 
